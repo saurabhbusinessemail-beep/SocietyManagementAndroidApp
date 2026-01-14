@@ -1,5 +1,8 @@
 {
 	"appId": "com.saurabhkumarbusiness.societymanagement",
 	"appName": "NestNet",
-	"webDir": "dist/society-management-ui/browser"
+	"webDir": "dist/society-management-ui/browser",
+	"server": {
+		"androidScheme": "https"
+	}
 }
