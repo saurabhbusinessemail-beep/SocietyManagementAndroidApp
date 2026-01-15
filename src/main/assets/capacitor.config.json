@@ -4,5 +4,14 @@
 	"webDir": "dist/society-management-ui/browser",
 	"server": {
 		"androidScheme": "https"
+	},
+	"plugins": {
+		"PushNotifications": {
+			"presentationOptions": [
+				"badge",
+				"sound",
+				"alert"
+			]
+		}
 	}
 }
